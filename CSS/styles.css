@@ -1,0 +1,58 @@
+body {
+  background-color:#EFC9AF ;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #104C91;
+  font-family: "Papyrus",fantasy;
+  text-shadow: 2px 2px 2px white;
+
+}
+
+h2
+{
+  color: #104C91;
+font-family: "Papyrus",fantasy;
+text-shadow: 2px 2px 2px white;
+}
+
+h3
+{
+  color: #104C91;
+  font-family: "Papyrus",fantasy;
+  text-shadow: 2px 2px 2px white;
+}
+
+p
+{
+  font-family: "Lucida Handwriting",cursive;
+  color: #1F8AC0;
+  text-shadow: 2px 2px 2px white;
+}
+
+ul
+{
+  font-family: "OCR A Std",monospace;
+  color: #1F8AC0;
+  text-shadow: 2px 2px 2px white;
+}
+
+table
+{
+  font-family: "Georgia",serif;
+  color: #1F8AC0;
+  text-shadow: 2px 2px 2px white;
+}
+
+a
+{
+  font-family: "Papyrus",fantasy;
+}
